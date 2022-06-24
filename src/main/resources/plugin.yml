@@ -1,0 +1,8 @@
+name: PrimeItems
+version: '${project.version}'
+main: ru.primer.mc.Main
+api-version: 1.16
+authors: [ Primer_Legend ]
+commands:
+  primeitems:
+    aliases: [pi]
